@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Gnauw7](https://github.com/Gnauw7)
 - 💬 Ask me about Proteus simulations, MATLAB (EEG/ECG), Digital ICs (74LS), and C++ (OOP)
 - 📫 How to reach me: kwag198@gmail.com
-- ⚡ Fun fact: - ⚡ Fun fact: Outside of electronics and coding, I'm passionate about exploring financial markets and the economy!
+- ⚡ Fun fact: Outside of electronics and coding, I'm passionate about exploring financial markets and the economy!
 
 ---
 
